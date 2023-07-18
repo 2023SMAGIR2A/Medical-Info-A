@@ -4,6 +4,6 @@ Ceci est notre repertoire pour notre projet Medical Info groupe A...
 
 # Participants
 
-Yao Samson -
-Yao Koffi Cherel -
-Ouattara Yiefihi Teddy Aymard
+1. Yao Samson
+2. Yao Koffi Cherel
+3. Ouattara Yiefihi Teddy Aymard
