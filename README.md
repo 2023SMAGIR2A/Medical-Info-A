@@ -9,7 +9,7 @@ Ceci est notre repertoire pour notre projet Medical Info groupe A...
 3. Ouattara Yiefihi Teddy Aymard
 
 # Problematique
-
+  
 
 # Objectifs
 
