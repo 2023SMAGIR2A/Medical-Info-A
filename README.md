@@ -10,9 +10,9 @@ Ceci est notre repertoire pour notre projet Medical Info groupe A...
 
 # ACCès à la base de données
 
-Base de données: medical_info
-Nom d'utilisateur: groupe3
-Email: andrej.tofanov@gmail.com
+1. Base de données: medical_info
+2. Nom d'utilisateur: groupe3
+3. Email: andrej.tofanov@gmail.com
 
 # Problematique
   
