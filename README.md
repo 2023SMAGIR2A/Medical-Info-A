@@ -8,6 +8,12 @@ Ceci est notre repertoire pour notre projet Medical Info groupe A...
 2. Yao Koffi Cherel
 3. Ouattara Yiefihi Teddy Aymard
 
+# ACCès à la base de données
+
+Base de données: medical_info
+Nom d'utilisateur: groupe3
+Email: andrej.tofanov@gmail.com
+
 # Problematique
   
 
