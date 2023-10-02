@@ -12,12 +12,16 @@ class EventServiceProvider extends ServiceProvider
     /**
      * The event listener mappings for the application.
      *
-     * @var array<class-string, array<int, class-string>>
+     * @var array
      */
     protected $listen = [
         Registered::class => [
             SendEmailVerificationNotification::class,
         ],
+        'App\Events\PurchaseOutStock'=>[
+            'App\Listeners\NotifyStockAlert',
+        ],
+        
     ];
 
     /**
@@ -27,6 +31,9 @@ class EventServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        // Event::list(function (PodcastProcessed $event){
+        //     $product = Product::where('quantity', '<=', 3)->first();
+        //     auth()->user()->notify(new ProductAlert($product));
+        // });
     }
 }
